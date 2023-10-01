@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-# @Author    : Eurkon
-# @Date      : 2021/6/5 10:16
 
 import json
 import requests
